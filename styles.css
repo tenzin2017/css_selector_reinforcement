@@ -1,0 +1,15 @@
+p {
+  color: blue;
+}
+
+h1 {
+  font-size: 50px;
+}
+
+.images li {
+  display: inline-block;
+}
+
+a:hover {
+  color : #DF1042;
+}
